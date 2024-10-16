@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaGlutamate)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NanaGlutamate&show_icons=true&theme=tokyonight" />
+ 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaGlutamate&&exclude_repo=NanaGlutamate.github.io&theme=tokyonight" />
+  
