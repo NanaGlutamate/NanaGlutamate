@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanaGlutamate&&exclude_repo=NanaGlutamate.github.io&theme=tokyonight" />
-
 ## 我的统计信息
 
 <!--
@@ -16,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=NanaGlutamate&show_icons=true&theme=tokyonight" />
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=NanaGlutamate&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaGlutamate&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
