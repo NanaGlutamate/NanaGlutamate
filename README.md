@@ -1,4 +1,4 @@
-## 我的统计信息
+## 我的统计信息 My Status
 
 <!--
 **NanaGlutamate/NanaGlutamate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
